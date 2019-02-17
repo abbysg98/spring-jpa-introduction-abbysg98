@@ -10,5 +10,21 @@
       <user-name>sa</user-name>
       <introspection-schemas>@:@</introspection-schemas>
     </data-source>
+    <data-source name="NewPersistenceUnit/OpenJPA" uuid="b9c4fdae-9983-46e1-a61b-ffd9c248e103">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" exact-version="0" />
+    </data-source>
+    <data-source name="NewPersistenceUnit/EclipseLink" uuid="2d23bbb5-9850-478b-8d89-113998ae5826">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" exact-version="0" />
+    </data-source>
+    <data-source name="NewPersistenceUnit/Hibernate" uuid="7cdf9d71-1464-469b-9193-6c606c58f850">
+      <database-info product="H2" version="1.4.196 (2017-06-10)" jdbc-version="4.0" driver-name="H2 JDBC Driver" driver-version="1.4.196 (2017-06-10)" dbms="H2" exact-version="1.4.196" exact-driver-version="1.4">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <introspection-schemas>@:@</introspection-schemas>
+    </data-source>
+    <data-source name="NewPersistenceUnit/TopLink" uuid="dcf57d3e-a86c-4b3e-9c62-24b5e3bbe60b">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" exact-version="0" />
+    </data-source>
   </component>
 </project>
