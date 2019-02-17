@@ -9,7 +9,7 @@ import java.util.Objects;
 @Entity
 public class Manager {
     private int id;
-    private String first;
+    private String firstName;
     private String lastName;
     private String department;
 
@@ -24,13 +24,13 @@ public class Manager {
     }
 
     @Basic
-    @Column(name = "FIRST_")
+    @Column(name = "FIRST_NAME")
     public String getFirst() {
-        return first;
+        return firstName;
     }
 
-    public void setFirst(String first) {
-        this.first = first;
+    public void setFirst(String firstName) {
+        this.firstName = firstName;
     }
 
     @Basic
@@ -59,13 +59,13 @@ public class Manager {
         if (o == null || getClass() != o.getClass()) return false;
         Manager manager = (Manager) o;
         return id == manager.id &&
-                Objects.equals(first, manager.first) &&
+                Objects.equals(firstName, manager.firstName) &&
                 Objects.equals(lastName, manager.lastName) &&
                 Objects.equals(department, manager.department);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(id, first, lastName, department);
+        return Objects.hash(id, firstName, lastName, department);
     }
 }

@@ -21,9 +21,9 @@
       <DataType>INTEGER(10)|4s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
-      <DefaultExpression>(NEXT VALUE FOR PUBLIC.SYSTEM_SEQUENCE_3305EB19_B578_4E21_A8EC_AD8FFC15E3A7)</DefaultExpression>
+      <DefaultExpression>(NEXT VALUE FOR PUBLIC.SYSTEM_SEQUENCE_B80C1B1B_A515_43ED_A630_FA461D567B2F)</DefaultExpression>
     </column>
-    <column id="9" parent="5" name="FIRST_">
+    <column id="9" parent="5" name="FIRST_NAME">
       <Position>2</Position>
       <DataType>VARCHAR(24)|12s</DataType>
     </column>
@@ -50,7 +50,7 @@
       <DataType>INTEGER(10)|4s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
-      <DefaultExpression>(NEXT VALUE FOR PUBLIC.SYSTEM_SEQUENCE_C0CADF50_97DD_4D64_9A8F_533E83912E36)</DefaultExpression>
+      <DefaultExpression>(NEXT VALUE FOR PUBLIC.SYSTEM_SEQUENCE_5AD21107_8CD2_45D5_A7FC_3F6F47BEDBBE)</DefaultExpression>
     </column>
     <column id="15" parent="6" name="NAME">
       <Position>2</Position>
