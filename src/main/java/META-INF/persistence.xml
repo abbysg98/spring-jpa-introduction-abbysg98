@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
 
-    <persistence-unit name="NewPersistenceUnit"/>
+    <persistence-unit name="NewPersistenceUnit">
+        <class>main.Manager</class>
+        <properties>
+            <property name="toplink.jdbc.url"
+                      value="jdbc:h2:C:/Users/AbbySG/IdeaProjects/spring-jpa-introduction-abbysg98/mydb;AUTO_SERVER=true"/>
+            <property name="toplink.jdbc.driver" value="org.h2.Driver"/>
+            <property name="hibernate.connection.url"
+                      value="jdbc:h2:C:/Users/AbbySG/IdeaProjects/spring-jpa-introduction-abbysg98/mydb;AUTO_SERVER=true"/>
+            <property name="hibernate.connection.driver_class" value="org.h2.Driver"/>
+            <property name="openjpa.ConnectionURL"
+                      value="jdbc:h2:C:/Users/AbbySG/IdeaProjects/spring-jpa-introduction-abbysg98/mydb;AUTO_SERVER=true"/>
+            <property name="openjpa.ConnectionDriverName" value="org.h2.Driver"/>
+            <property name="eclipselink.jdbc.url"
+                      value="jdbc:h2:C:/Users/AbbySG/IdeaProjects/spring-jpa-introduction-abbysg98/mydb;AUTO_SERVER=true"/>
+            <property name="eclipselink.jdbc.driver" value="org.h2.Driver"/>
+        </properties>
+    </persistence-unit>
 </persistence>
