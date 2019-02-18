@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40801aaa-392f-4848-9fa0-eeda797f8c44" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -436,7 +435,7 @@
     <property name="SearchEverywhereHistoryKey" value="persis&#9;ACTION&#9;ActivatePersistenceToolWindow&#10;persista&#9;PSI&#9;JAVA://org.springframework.data.domain.Persistable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550444209081" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550444754948" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
@@ -625,7 +624,7 @@
       <workItem from="1549983457925" duration="1285000" />
       <workItem from="1550372208092" duration="1097000" />
       <workItem from="1550377270702" duration="1306000" />
-      <workItem from="1550441232927" duration="2942000" />
+      <workItem from="1550441232927" duration="3083000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1550372579844</created>
@@ -662,11 +661,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550443883038</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="completed step 2">
+      <created>1550444630341</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550444630341</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12831000" />
+    <option name="totallyTimeSpent" value="12972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -683,7 +689,7 @@
       <window_info id="Persistence" order="8" sideWeight="0.3042328" side_tool="true" visible="true" weight="0.2631579" />
       <window_info anchor="bottom" id="ConsoleMavenPlugin" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Run Dashboard" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run Dashboard" order="2" sideWeight="0.4979757" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="bottom" id="Run" order="4" sideWeight="0.4978425" weight="0.09769094" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.3997986" />
@@ -691,7 +697,7 @@
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021575" side_tool="true" weight="0.28872496" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5020243" side_tool="true" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3285968" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.61605585" />
