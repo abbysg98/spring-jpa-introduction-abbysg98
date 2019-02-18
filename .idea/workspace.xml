@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40801aaa-392f-4848-9fa0-eeda797f8c44" name="Default Changelist" comment="" />
+    <list default="true" id="40801aaa-392f-4848-9fa0-eeda797f8c44" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -621,7 +623,8 @@
       <workItem from="1550372208092" duration="1097000" />
       <workItem from="1550377270702" duration="1306000" />
       <workItem from="1550441232927" duration="3083000" />
-      <workItem from="1550464677823" duration="225000" />
+      <workItem from="1550464677823" duration="359000" />
+      <workItem from="1550532258191" duration="361000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1550372579844</created>
@@ -672,16 +675,31 @@
       <option name="project" value="LOCAL" />
       <updated>1550464793910</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="completed step 2">
+      <created>1550464968163</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1550464968163</updated>
+    </task>
+    <task id="LOCAL-00009" summary="completed step 2">
+      <created>1550465016683</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1550465016683</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13197000" />
+    <option name="totallyTimeSpent" value="13692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6931217" visible="true" weight="0.2680162" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6904762" visible="true" weight="0.2728745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -689,7 +707,7 @@
       <window_info id="DB Browser" order="5" />
       <window_info id="Image Layers" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info id="Persistence" order="8" sideWeight="0.3068783" side_tool="true" visible="true" weight="0.2680162" />
+      <window_info id="Persistence" order="8" sideWeight="0.30952382" side_tool="true" visible="true" weight="0.2728745" />
       <window_info anchor="bottom" id="ConsoleMavenPlugin" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Run Dashboard" order="2" sideWeight="0.36275303" weight="0.3285968" />
