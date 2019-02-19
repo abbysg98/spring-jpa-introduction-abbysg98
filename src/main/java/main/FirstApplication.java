@@ -28,8 +28,10 @@ public class FirstApplication implements CommandLineRunner {
         Person personFromDb = personRepository.findFirstByName("John");
         System.out.println(personFromDb);
 
+
         Manager manager = new Manager();
         manager.setLastName("Ogunwomoju");
+        manager.setFirst(" Abby");
         managerRepository.save(manager);
 
         Manager managerFromDb = managerRepository.findByLastName("Ogunwomoju");
